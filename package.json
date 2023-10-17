@@ -1,0 +1,12 @@
+{
+  "name": "dio-calc-rank",
+  "version": "1.0.0",
+  "description": "**O Que deve ser utilizado**",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
